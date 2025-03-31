@@ -26,11 +26,10 @@ body {
   border: 7px dashed rgb(1, 17, 160);
   border-radius: 20px;
 }
-
 .cards {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: stretch;
   flex-wrap: wrap;
   max-width: 1300px;
   transition: all 0.3s ease;
@@ -38,13 +37,12 @@ body {
 
 .card {
   width: 400px;
-  height: max-content;
-
-  margin: 1rem;
-  padding: 1rem;
+  min-height: 480px;
   display: flex;
   flex-direction: column;
-  /* align-items: center; */
+  justify-content: space-between;
+  margin: 1rem;
+  padding: 1rem;
   border-radius: 10px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }

@@ -3,8 +3,8 @@ const data = [
 		"id": 1,
 		"name": "Kedarnath Temple, Uttarakhand",
 		"info": "Kedarnath Temple is a sacred Hindu shrine dedicated to Lord Shiva, located in the Himalayas of Uttarakhand. It is one of the twelve Jyotirlingas and an important pilgrimage site, attracting devotees despite its challenging high-altitude location. The temple stands as a symbol of faith and resilience.",
-		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/800px-Kedarnath_Temple_in_Rainy_season.jpg",
-		"price": "50,000"
+		"image": "https://i.pinimg.com/736x/12/b3/f5/12b3f51d60f63bb566d5b2a5e9526f64.jpg",
+		"price": "80,000"
 	},
 	
 	{
