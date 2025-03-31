@@ -1,5 +1,13 @@
 const data = [
 	{
+		"id": 2,
+		"name": "Kedarnath Temple, Uttarakhand",
+		"info": "Kedarnath Temple is a sacred Hindu shrine dedicated to Lord Shiva, located in the Himalayas of Uttarakhand. It is one of the twelve Jyotirlingas and an important pilgrimage site, attracting devotees despite its challenging high-altitude location. The temple stands as a symbol of faith and resilience.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/800px-Kedarnath_Temple_in_Rainy_season.jpg",
+		"price": "50,000"
+	},
+	
+	{
         id: 1,
         name: "Shri Ram Mandir, Ayodhya",
         info: "Shri Ram Mandir in Ayodhya is a grand Hindu temple dedicated to Lord Ram. It is being built at the site believed to be the birthplace of Lord Ram. The temple showcases intricate carvings and traditional Indian architecture, attracting millions of devotees and tourists every year.",
